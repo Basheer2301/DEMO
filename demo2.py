@@ -1,1 +1,1 @@
-print("Demo2")
+print("Demo2 LUMEN")
